@@ -12,7 +12,7 @@ def log(command):
     tanggal2 = datetime.now()
     tgl = tanggal2.strftime('%Y-%m-%d %H:%M %p')
     text_log = '{0} {1} \n'.format(tgl, command)
-    with open('C:\\adam\\netflix\\log_netflix.txt','a') as file:
+    with open('your log file path.txt','a') as file:
         file.write(text_log)
         file.close()
     print(command)
@@ -43,11 +43,11 @@ def split_season_process(dataframe,regex_str,column_target,replace_regex=''):
             pass
 
 try:
-    main_folder = 'C:\\adam\\netflix\\'
+    main_folder = 'your main folder path'
     folder_output = main_folder+'output\\'
     folder_config = main_folder+'config\\'
     url_spreadsheet  = 'url_spreadsheet.txt'
-    json_creden = 'round-ring-368808-c4f00381ec56.json'
+    json_creden = 'your json credential'
     url_netflix = 'https://en.wikipedia.org/wiki/List_of_Netflix_original_programming'
     scope = ['https://spreadsheets.google.com/feeds',
         'https://www.googleapis.com/auth/drive']
