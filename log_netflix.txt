@@ -1,0 +1,324 @@
+2022-12-18 09:23 AM Load variable success 
+2022-12-18 09:24 AM Load dataframe success 
+2022-12-18 09:24 AM Transform general success 
+2022-12-18 09:24 AM Transform column season success 
+2022-12-18 09:24 AM Transform column runtime success 
+2022-12-18 09:24 AM Change datatype success 
+2022-12-18 09:24 AM Add extra column success 
+2022-12-18 09:24 AM Upload to spreadsheet success 
+2022-12-18 10:05 AM Load variable success 
+2022-12-18 10:05 AM Load dataframe success 
+2022-12-18 10:05 AM Transform general success 
+2022-12-18 10:05 AM Transform column season success 
+2022-12-18 10:05 AM Transform column runtime success 
+2022-12-18 10:05 AM Change datatype success 
+2022-12-18 10:05 AM Add extra column success and split dataframe success 
+2022-12-18 10:06 AM Upload to spreadsheet success 
+2022-12-18 10:09 AM Load variable success 
+2022-12-18 10:10 AM Load dataframe success 
+2022-12-18 10:10 AM Transform general success 
+2022-12-18 10:10 AM Transform column season success 
+2022-12-18 10:10 AM Transform column runtime success 
+2022-12-18 10:10 AM Change datatype success 
+2022-12-18 10:10 AM Add extra column success and split dataframe success 
+2022-12-18 10:10 AM Upload to spreadsheet success 
+2022-12-24 11:03 AM Load variable success 
+2022-12-24 11:04 AM Load dataframe success 
+2022-12-24 11:04 AM Transform general success 
+2022-12-24 11:04 AM Transform column season success 
+2022-12-24 11:04 AM Transform column runtime success 
+2022-12-24 11:04 AM Change datatype success 
+2022-12-24 11:04 AM Add extra column success and split dataframe success 
+2022-12-24 11:04 AM Upload to spreadsheet success 
+2022-12-25 16:48 PM Load variable success 
+2022-12-25 16:48 PM Load dataframe failed 
+2022-12-25 16:48 PM Transform general failed 
+2022-12-25 16:48 PM Transform column season success 
+2022-12-25 16:48 PM Transform column runtime success 
+2022-12-25 16:48 PM Change datatype failed 
+2022-12-25 16:48 PM Add extra column and split dataframe failed 
+2022-12-25 16:48 PM Upload to spreadsheet failed 
+2022-12-25 16:48 PM Load variable success 
+2022-12-25 16:48 PM Load dataframe failed 
+2022-12-25 16:48 PM Transform general failed 
+2022-12-25 16:48 PM Transform column season failed 
+2022-12-25 16:48 PM Transform column runtime success 
+2022-12-25 16:48 PM Change datatype failed 
+2022-12-25 16:48 PM Add extra column and split dataframe failed 
+2022-12-25 16:48 PM Upload to spreadsheet failed 
+2022-12-25 16:49 PM Load variable success 
+2022-12-25 16:50 PM Load dataframe success 
+2022-12-25 16:50 PM Transform general success 
+2022-12-25 16:50 PM Transform column season success 
+2022-12-25 16:50 PM Transform column runtime success 
+2022-12-25 16:50 PM Change datatype success 
+2022-12-25 16:50 PM Add extra column success and split dataframe success 
+2022-12-25 16:50 PM Upload to spreadsheet success 
+2022-12-25 16:55 PM Load variable success 
+2022-12-25 16:55 PM Load dataframe failed 
+2022-12-25 16:55 PM Transform general failed 
+2022-12-25 16:55 PM Transform column season success 
+2022-12-25 16:55 PM Transform column runtime success 
+2022-12-25 16:55 PM Change datatype failed 
+2022-12-25 16:55 PM Add extra column and split dataframe failed 
+2022-12-25 16:55 PM Upload to spreadsheet failed 
+2022-12-25 17:00 PM Load variable success 
+2022-12-25 17:00 PM Load dataframe failed 
+2022-12-25 17:00 PM Transform general failed 
+2022-12-25 17:00 PM Transform column season success 
+2022-12-25 17:00 PM Transform column runtime success 
+2022-12-25 17:00 PM Change datatype failed 
+2022-12-25 17:00 PM Add extra column and split dataframe failed 
+2022-12-25 17:00 PM Upload to spreadsheet failed 
+2022-12-25 17:01 PM Load variable success 
+2022-12-25 17:01 PM Load dataframe failed 
+2022-12-25 17:01 PM Transform general failed 
+2022-12-25 17:01 PM Transform column season success 
+2022-12-25 17:01 PM Transform column runtime success 
+2022-12-25 17:01 PM Change datatype failed 
+2022-12-25 17:01 PM Add extra column and split dataframe failed 
+2022-12-25 17:01 PM Upload to spreadsheet failed 
+2022-12-25 17:01 PM Load variable success 
+2022-12-25 17:01 PM Load dataframe failed 
+2022-12-25 17:01 PM Transform general failed 
+2022-12-25 17:01 PM Transform column season success 
+2022-12-25 17:01 PM Transform column runtime success 
+2022-12-25 17:01 PM Change datatype failed 
+2022-12-25 17:01 PM Add extra column and split dataframe failed 
+2022-12-25 17:02 PM Load variable success 
+2022-12-25 17:02 PM Load dataframe success 
+2022-12-25 17:02 PM Transform general success 
+2022-12-25 17:02 PM Transform column season success 
+2022-12-25 17:02 PM Transform column runtime success 
+2022-12-25 17:02 PM Change datatype success 
+2022-12-25 17:02 PM Add extra column success and split dataframe success 
+2022-12-25 17:03 PM Upload to spreadsheet success 
+2022-12-25 17:09 PM Load variable success 
+2022-12-25 17:09 PM Load dataframe failed 
+2022-12-25 17:09 PM Transform general failed 
+2022-12-25 17:09 PM Transform column season success 
+2022-12-25 17:09 PM Transform column runtime success 
+2022-12-25 17:09 PM Change datatype failed 
+2022-12-25 17:09 PM Add extra column and split dataframe failed 
+2022-12-25 17:10 PM Upload to spreadsheet failed 
+2022-12-25 17:10 PM Load variable success 
+2022-12-25 17:10 PM Load dataframe failed 
+2022-12-25 17:10 PM Transform general failed 
+2022-12-25 17:10 PM Transform column season success 
+2022-12-25 17:10 PM Transform column runtime success 
+2022-12-25 17:10 PM Change datatype failed 
+2022-12-25 17:10 PM Add extra column and split dataframe failed 
+2022-12-25 17:11 PM Upload to spreadsheet failed 
+2022-12-25 17:14 PM Load variable success 
+2022-12-25 17:14 PM Load dataframe failed 
+2022-12-25 17:14 PM Transform general failed 
+2022-12-25 17:14 PM Transform column season success 
+2022-12-25 17:14 PM Transform column runtime success 
+2022-12-25 17:14 PM Change datatype failed 
+2022-12-25 17:14 PM Add extra column and split dataframe failed 
+2022-12-25 17:14 PM Upload to spreadsheet failed 
+2022-12-25 17:18 PM Load variable success 
+2022-12-25 17:18 PM Load dataframe failed 
+2022-12-25 17:18 PM Transform general failed 
+2022-12-25 17:18 PM Transform column season success 
+2022-12-25 17:18 PM Transform column runtime success 
+2022-12-25 17:18 PM Change datatype failed 
+2022-12-25 17:18 PM Add extra column and split dataframe failed 
+2022-12-25 17:18 PM Upload to spreadsheet failed 
+2022-12-25 17:19 PM Load variable success 
+2022-12-25 17:19 PM Load dataframe success 
+2022-12-25 17:19 PM Transform general success 
+2022-12-25 17:19 PM Transform column season success 
+2022-12-25 17:19 PM Transform column runtime success 
+2022-12-25 17:19 PM Change datatype success 
+2022-12-25 17:19 PM Add extra column success and split dataframe success 
+2022-12-25 17:20 PM Upload to spreadsheet success 
+2022-12-25 18:45 PM Load variable success 
+2022-12-25 18:45 PM Load dataframe failed 
+2022-12-25 18:45 PM Transform general failed 
+2022-12-25 18:45 PM Transform column season success 
+2022-12-25 18:45 PM Transform column runtime success 
+2022-12-25 18:45 PM Change datatype failed 
+2022-12-25 18:45 PM Add extra column and split dataframe failed 
+2022-12-25 18:45 PM Upload to spreadsheet failed 
+2022-12-25 18:48 PM Load variable success 
+2022-12-25 18:48 PM test1 
+2022-12-25 18:48 PM Load dataframe failed 
+2022-12-25 18:48 PM Transform general failed 
+2022-12-25 18:48 PM Transform column season success 
+2022-12-25 18:48 PM Transform column runtime success 
+2022-12-25 18:48 PM Change datatype failed 
+2022-12-25 18:48 PM Add extra column and split dataframe failed 
+2022-12-25 18:48 PM Upload to spreadsheet failed 
+2022-12-25 18:49 PM Load variable success 
+2022-12-25 18:49 PM test1 
+2022-12-25 18:49 PM test2 
+2022-12-25 18:49 PM test3 
+2022-12-25 18:49 PM Load dataframe failed 
+2022-12-25 18:49 PM Transform general failed 
+2022-12-25 18:49 PM Transform column season success 
+2022-12-25 18:49 PM Transform column runtime success 
+2022-12-25 18:49 PM Change datatype failed 
+2022-12-25 18:49 PM Add extra column and split dataframe failed 
+2022-12-25 18:49 PM Upload to spreadsheet failed 
+2022-12-25 18:51 PM Load variable success 
+2022-12-25 18:51 PM test1 
+2022-12-25 18:51 PM test2 
+2022-12-25 18:51 PM test3 
+2022-12-25 18:51 PM Load dataframe failed 
+2022-12-25 18:51 PM Transform general failed 
+2022-12-25 18:51 PM Transform column season success 
+2022-12-25 18:51 PM Transform column runtime success 
+2022-12-25 18:51 PM Change datatype failed 
+2022-12-25 18:51 PM Add extra column and split dataframe failed 
+2022-12-25 18:51 PM Upload to spreadsheet failed 
+2022-12-25 18:51 PM Load variable success 
+2022-12-25 18:51 PM test1 
+2022-12-25 18:51 PM test2 
+2022-12-25 18:51 PM test3 
+2022-12-25 18:51 PM Load dataframe failed 
+2022-12-25 18:51 PM Transform general failed 
+2022-12-25 18:51 PM Transform column season success 
+2022-12-25 18:51 PM Transform column runtime success 
+2022-12-25 18:51 PM Change datatype failed 
+2022-12-25 18:51 PM Add extra column and split dataframe failed 
+2022-12-25 18:52 PM Upload to spreadsheet failed 
+2022-12-25 18:53 PM Load variable success 
+2022-12-25 18:53 PM test1 
+2022-12-25 18:53 PM test2 
+2022-12-25 18:53 PM test3 
+2022-12-25 18:54 PM Load variable success 
+2022-12-25 18:54 PM test1 
+2022-12-25 18:54 PM test2 
+2022-12-25 18:54 PM test3 
+2022-12-25 19:16 PM Load variable success 
+2022-12-25 19:16 PM test1 
+2022-12-25 19:16 PM test2 
+2022-12-25 19:16 PM test3 
+2022-12-25 19:20 PM Load variable success 
+2022-12-25 19:20 PM test1 
+2022-12-25 19:20 PM test2 
+2022-12-25 19:20 PM test3 
+2022-12-25 19:26 PM Load variable success 
+2022-12-25 19:26 PM test1 
+2022-12-25 19:26 PM test2 
+2022-12-25 19:26 PM test3 
+2022-12-25 19:29 PM Load variable success 
+2022-12-25 19:29 PM test1 
+2022-12-25 19:29 PM test2 
+2022-12-25 19:29 PM test3 
+2022-12-25 19:30 PM Load variable success 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM test1 
+2022-12-25 19:30 PM test2 
+2022-12-25 19:30 PM test3 
+2022-12-25 19:30 PM test4 
+2022-12-25 19:30 PM Transform general success 
+2022-12-25 19:30 PM Transform column season success 
+2022-12-25 19:30 PM Transform column runtime success 
+2022-12-25 19:30 PM Change datatype success 
+2022-12-25 19:30 PM Add extra column success and split dataframe success 
+2022-12-25 19:31 PM Upload to spreadsheet success 
+2022-12-25 19:33 PM Load variable success 
+2022-12-25 19:34 PM Load dataframe success 
+2022-12-25 19:34 PM Transform general success 
+2022-12-25 19:34 PM Transform column season success 
+2022-12-25 19:34 PM Transform column runtime success 
+2022-12-25 19:34 PM Change datatype success 
+2022-12-25 19:34 PM Add extra column success and split dataframe success 
+2022-12-25 19:34 PM Upload to spreadsheet success 

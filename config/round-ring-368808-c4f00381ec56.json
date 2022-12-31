@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "round-ring-368808",
+  "private_key_id": "c4f00381ec56518413a9306928d55f9a28b2ecc3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDfSQd2/S4GNQom\ngmd8zEZMVfWpqlEZzqhjJvIiY4sCeoIu6R32dfMhcf8JihF9mJLu3hm2YJ05Lz8b\nF2RRVogKUTFCUR0DAXW/xLvY5DggaNnVtON1/W4RX6QJnHfxMU1ecazzycPZ5awZ\nvapbJfhQQmCAQJcpT2tBB52jhONjfmED6KrkG8i/c6balwsQZtIG++6zZ+zzyPCN\nFBciZjJfjREKBs5PtQwtM7RFVrD2ddz7AUm49w4X7jk9Zi3oYqDcwWb2hFXGUDiU\nspoJ6Nt6xDbJOnQWB7eMVXh8Y5obQ054jqyPtG6f+AQ7sNmAPSjQotLJq+lodiBZ\nEzM1G31PAgMBAAECggEAQ4wiN/rrm3EcOv4kNHrPoXQ3tzYRBs+f3S8A/SpD+WH6\nVBqtt8uC29FSqB4eoHIxsRV7jdK4fX4vhxCShpC44vYhAsDrF+evKW5orXqNCDDw\nBViNnzolvBfE1iuBlXOmxjV5bt7Q4vA6Gidoi952ukD6VJI1qIegGLInHDqtV4Fp\nSApenu0FZWdxnerTHWVqlNbBCZaN8H9E1jl7oI5d5YcuXsPvdt7JLmcWrYuImzn1\nuyy5YadO2P3t2uM5zzIw0AJsPLRzbNGUYz3NFOcJ13kYDLeCGpU6yeCJHxrvlmYI\nSO023r58Q+uE79vzKPXSbBF7qe3xHrqk87Iuy3KJoQKBgQDyqsa64jYdXWlDSYAN\nSnTQuVYC5nlvEHQ5yGKE94AKiQptXH0UbVpwaokXCKxzLN3CMs/Nt2rXdyYiZ6J2\nCoDjmrMeta63VT7/OlzxO1YPE+/bNSBYgnunmDOCJ30c0c9RG8SHHnZUk2u/MN6G\nlxYZanTdgrW76iMeIuDxg3EQOQKBgQDrjaN9y0G68yN6Moo7xoGxoYJp7H6gF5We\ntM6tYuMTnlqCVsNdIyuvMOiUWFioxPA7W6wRI3+NhjKuuadAHL0yf902UP3nWqoQ\nkKrTM7OI1nUfW5pyHRkSunmSjLuItcRFELDXOE64RYUa7iUNj0u9OfgKJq+V16EH\ncyC9vBTpxwKBgQCe1juIPeMv62GoImcHzBGUQYvUECmyEfIRlGEwKZSM0NCbbquM\ngFtvM7yR8CJ4rQhmQb4VKBZt/FZgtLb5Try4vhy6YC+BXvICO6B0YeNdsS4RrL+E\nT7xCofQtIE3bXFW4AFXuH3lSuMARABrXu/NCJZVjHFh6LLJZ2nikfOW3uQKBgQC5\nbbOhSEuDJvnrrTOCoN7h/ZmTVvfLgSVoXT9B4NGPVR488p4yiIhQDnlYpj+NBBN1\nNtI6X65+s4DcaQvPfZA2289BffqSkJ3GEoxXXKDdfK2QtOTdJijhxGgFxMGweh56\nnAwKMKpPh3Kj44rJpN9jo+mt3AxnMery2V+R3Si9awKBgQCHxuReeiHqQqvqEAZx\n2ZHv0TmXshUhHYj9QrdUnV47yPVAl3O+fpXQ3CxXnQoPEEGqJG/VGx0Vc0kLaMLB\nIpWGz+MCApYIxnzwzoNdk3KbSNruMRObOrxVpHGOGhBO1mklOPaECJzhEPfzUUxO\nWfeaPBea/rAiMK0R5ztlfnTLpA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "adamlearning@round-ring-368808.iam.gserviceaccount.com",
+  "client_id": "112998432198609143206",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adamlearning%40round-ring-368808.iam.gserviceaccount.com"
+}
