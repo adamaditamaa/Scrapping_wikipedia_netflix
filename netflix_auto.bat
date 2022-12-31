@@ -1,3 +1,3 @@
 @echo off
-"C:\Users\Lenovo\Anaconda3\python.exe" "C:\adam\netflix\netflix.py"
+"your python.exe path" "your script.py path"
 pause
