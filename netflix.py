@@ -6,16 +6,17 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import numpy as np
+import warnings
+warnings.filterwarnings("ignore")
 
 
-def log(command):
-    tanggal2 = datetime.now()
-    tgl = tanggal2.strftime('%Y-%m-%d %H:%M %p')
-    text_log = '{0} {1} \n'.format(tgl, command)
+def log(command,erors='None'):
+    today = (datetime.now()).strftime('%Y-%m-%d %H:%M:%S')
+    text_log = '{0} {1}, eror: {2} \n'.format(today, command,erors)
     with open('your log file path.txt','a') as file:
         file.write(text_log)
         file.close()
-    print(command)
+    print(command+ ' eror: {0}'.format(erors))
         
 def runtime(row):
     if row['Runtime_min']!='TBA' and row['Runtime_max']!='None':
@@ -57,8 +58,8 @@ try:
     list_tozero = ['Seasons','episodes','Runtime_min','Runtime_max']
     
     log('Load variable success')
-except:
-    log('Load variable failed')
+except Exception as eror:
+    log('Load variable failed',erors=eror)
     
 try:
     df_os = pd.DataFrame(columns = ['Title','Genre','Premiere','Seasons','Runtime','Language','Status'])
@@ -71,8 +72,8 @@ try:
         df_os = pd.concat([df_os,df_temp_fix])
     df_os = df_os.reset_index()
     log('Load dataframe success')
-except:
-    log('Load dataframe failed')
+except Exception as eror:
+    log('Load dataframe failed',erors=eror)
     
 
 try:
@@ -89,8 +90,8 @@ try:
     df_os['episodes'] = df_os['episodes'].str.replace('episode','')
     df_os = df_os[~(df_os['Title']=='Awaiting release')]
     log('Transform general success')
-except:
-    log('Transform general failed')
+except Exception as eror:
+    log('Transform general failed', erors=eror)
     
 
 try:
@@ -103,8 +104,8 @@ try:
     concat_original['Seasons'] = concat_original['Seasons'].str.replace('seasons','')
     concat_original['Seasons'] = concat_original['Seasons'].str.replace('season','')
     log('Transform column season success')
-except:
-    log('Transform column season failed')
+except Exception as eror:
+    log('Transform column season failed', erors=eror)
     
 try:
     concat_original['Runtime'] = concat_original['Runtime'].str.replace(' ','')
@@ -116,8 +117,8 @@ try:
     concat_original['avg_runtime'] = concat_original.apply(lambda row: runtime(row), axis=1)
     concat_original = concat_original[['Title','Genre','Premiere','Seasons','episodes','Runtime_min','Runtime_max','avg_runtime','Status']]
     log('Transform column runtime success')
-except:
-    log('Transform column runtime success')
+except Exception as eror:
+    log('Transform column runtime success', erors=eror)
     
 try:
     list_tozero = ['Seasons','episodes','Runtime_min','Runtime_max']
@@ -130,8 +131,8 @@ try:
     concat_original['avg_runtime'] = concat_original['avg_runtime'].fillna(0.0)
     concat_original['Premiere'] = pd.to_datetime(concat_original['Premiere'])
     log('Change datatype success')
-except:
-    log('Change datatype failed')
+except Exception as eror:
+    log('Change datatype failed',erors=eror)
     
 try:
     concat_original['coming_soon'] = np.where(concat_original['Premiere']>today,'True','False')
@@ -141,8 +142,8 @@ try:
     coming_soon = concat_original[concat_original['coming_soon']=='True']
     without_comingsoon = concat_original[concat_original['coming_soon']=='False']
     log('Add extra column success and split dataframe success')
-except:
-    log('Add extra column and split dataframe failed')
+except Exception as eror:
+    log('Add extra column and split dataframe failed',erors=eror)
     
 try:
     credentials1 = ServiceAccountCredentials.from_json_keyfile_name(folder_config+json_creden, scope)
@@ -150,8 +151,8 @@ try:
     df2.upload(coming_soon, gfile=url, wks_name='coming_soon', credentials=credentials1, row_names=False, clean=True)
     df2.upload(without_comingsoon, gfile=url, wks_name='without_coming_soon', credentials=credentials1, row_names=False, clean=True)
     log('Upload to spreadsheet success')
-except:
-    log('Upload to spreadsheet failed')
+except Exception as eror:
+    log('Upload to spreadsheet failed',erors=eror)
     
 
 
